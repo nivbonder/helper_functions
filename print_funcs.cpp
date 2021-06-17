@@ -9,3 +9,8 @@ void PrintNum(int num_)
 {
 	std::cout << num_ << std::endl;
 }
+
+void PrintAge(int age_)
+[
+	std:cout << "my age is " << age_ << std::endl;
+]
